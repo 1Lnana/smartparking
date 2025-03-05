@@ -1,0 +1,1 @@
+2025-03-05T01:26:29.874+08:00 ERROR 37096 --- [redisson-netty-2-30] o.r.client.handler.ConnectionWatchdog    : local address and remote address are the same! connected to: 127.0.0.1/127.0.0.1:6379, localAddress: /127.0.0.1:6379 remoteAddress: 127.0.0.1/127.0.0.1:6379
