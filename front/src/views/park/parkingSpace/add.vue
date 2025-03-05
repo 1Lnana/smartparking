@@ -21,6 +21,7 @@
                 <Select v-model="form.status" clearable style="width:570px">
                     <Option value="正常">正常</Option>
                     <Option value="失效">失效</Option>
+                    
                 </Select>
             </FormItem>
             <FormItem label="排序值" prop="sortOrder">

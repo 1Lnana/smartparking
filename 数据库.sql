@@ -1,1 +1,1 @@
-a_department_headera_dict_dataALTER TABLE a_parking_space ADD COLUMN status INT DEFAULT 0;
+DELETE FROM a_parking_data;
